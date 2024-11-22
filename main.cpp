@@ -28,7 +28,6 @@ int main() {
     
     //Testing Multiple Links:
     {
-    
         LinkedList links_multiple;
         ChainLink green_link("Green");
         ChainLink red_link("Red");
