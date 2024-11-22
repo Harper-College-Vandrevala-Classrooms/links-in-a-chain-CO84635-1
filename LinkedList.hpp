@@ -67,6 +67,4 @@ class LinkedList {
     }
 };
 
-
-
 #endif // LINKEDLIST_H
